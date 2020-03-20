@@ -10,8 +10,14 @@
   },
   "keywords": [
     "uid",
-    "random"
+    "random",
+    "random-generators",
+    "random-number-generator",
+    "random-string-generator",
+    "random-string",
+    "nodejs",
+    "javascript"
   ],
   "author": "Tony Freed",
-  "license": "ISC"
+  "license": "MIT"
 }
