@@ -2,3 +2,14 @@ language: node_js
 node_js:
   - '10'
   - '8'
+
+before_script:
+- npm install -save-dev jest
+
+before_install:
+- npm update
+
+install:
+- npm install
+
+script: jest
