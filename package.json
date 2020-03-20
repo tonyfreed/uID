@@ -1,5 +1,5 @@
 {
-  "name": "uid",
+  "name": "tf-uid",
   "version": "1.0.0",
   "description": "uID generator",
   "main": "index.js",
