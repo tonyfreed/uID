@@ -1,0 +1,17 @@
+{
+  "name": "uid",
+  "version": "1.0.0",
+  "description": "uID generator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "uid",
+    "random"
+  ],
+  "author": "Tony Freed",
+  "license": "ISC"
+}
